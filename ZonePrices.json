@@ -1,0 +1,22 @@
+{
+    //Price for adults paying not by Oyster card in zones 1-6
+    "ZonePricesAdultCash1_6":{"Zone 1":6.30, "Zone 2":6.30, "Zone 3":6.30, "Zone 4":6.30, "Zone 5":6.30},
+    //Price for children paying not by Oyster card
+    "ZonePricesChildCash1_6":{"Zone 1":3.10, "Zone 2":3.10, "Zone 3":3.10, "Zone 4":3.10, "Zone 5":3.10},
+    //Price for adults paying by Oyster card in zones 1-6 in peak times
+    "ZonePricesAdultPeakOysterCard1_6":{"Zone 1":2.50, "Zone 2":3.20, "Zone 3":3.60, "Zone 4":4.30, "Zone 5":5.00, "Zone 6":5.50},
+    //Price for adults paying by Oyster card in zones 1-6 in off peak times
+    "ZonePricesAdultOffPeakOysterCard1_6":{"Zone 1":2.50, "Zone 2":2.60, "Zone 3":2.90, "Zone 4":3.20, "Zone 5":3.40, "Zone 6":3.50},
+    //Price for children paying by Oyster card in peak times
+    "ZonePricesPeakChildOysterCard":0.85,
+    //Price for children paying by Oyster card in off peak times
+    "ZonePricesOffPeakChildOysterCard":0.75,
+    //Price for adults paying by not by Oyster card in zones 2-6
+    "ZonePricesAdultCash2_6":6.30,
+    //Price for children paying by not by Oyster card in zones 2-6
+    "ZonePricesChildCash2_6":3.10,
+    //Price for adults paying by Oyster card in zones 2-6 during peak times
+    "ZonePricesAdultPeakOysterCard2_6":3.30,
+    //Price for adults paying by Oyster card in zones 2-6 during off peak times
+    "ZonePricesAdultOffPeakOysterCard2_6":1.90
+}

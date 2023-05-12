@@ -1,0 +1,260 @@
+ID,Station Name,Zone,Next Station,Previous Station,Line
+1,West Ruslip,6,2,0,Central
+2,Ruislip Garndens,5,3,1,Central
+3,South Ruislip,5,4,2,Central
+4,North Holt,5,5,3,Central
+5,Greenford,4,6,4,Central
+6,Pervale,4,7,5,Central
+7,Hanger Lane,3,8,6,Central
+8,Ealing Broadway,3,"9, 121",7,Central
+9,West Acton,3,10,8,Central
+10,North Acton,2,11,9,Central
+11,East Acton,2,12,10,Central
+12,White City,2,13,11,Central
+13,Shepherd's Bush,2,14,12,Central
+14,Holland Park,2,15,13,Central
+15,Notting Hill Gate,2,"16, 102","14, 91",Central
+16,Queensway,1,17,15,Central
+17,Lancaster Gate,1,18,16,Central
+18,Bond Street,1,"19, 64",17,"Central, Jubilee"
+19,Oxford Circus,1,"20, 63, 154","18, 193, 229",Central
+20,Tottenham Court Road,1,"21, 154","19, 194",Central
+21,Holborn,1,"22, 153","20, 152",Central
+22,Chancery Lane,1,23,21,Central
+23,St Paul's,1,24,22,Central
+24,Bank,1,"25, 67, 92","23, 89",Central
+25,Liverpool Street,1,26,24,Central
+26,Bethnal Green,2,27,25,Central
+27,Mile End,2,"28, 108","26, 107",Central
+28,Stratford,2,29,27,Central
+29,Leyton,3,30,28,Central
+30,Leytonstone,3,"31, 39",29,Central
+31,Snaresbrook,4,32,30,Central
+32,South Woodford,4,33,32,Central
+33,Woodford,4,"34, 48",32,Central
+34,Buckhurst Hill,5,35,33,Central
+35,Loughton,6,36,34,Central
+36,Debden,6,37,35,Central
+37,Theydon Bois,6,38,36,Central
+38,Epping,6,0,37,Central
+39,Wanstead,4,40,30,Central
+40,Redbridge,4,41,39,Central
+41,Gantts Hill,4,42,40,Central
+42,Newbury Park,4,43,41,Central
+43,Barkingside,4,44,42,Central
+44,Fairlop,4,45,43,Central
+45,Hainault,4,46,44,Central
+46,Grange Hill,4,47,45,Central
+47,Chigwell,4,48,46,Central
+48,Roding Valley,4,33,"33, 47",Central
+49,Stanmore,5,50,0,Jubilee
+50,Canons Park,5,51,49,Jubilee
+51,Queensbury,4,52,50,Jubilee
+52,Kingsbury,4,53,51,Jubilee
+53,Wembley Park,4,54,"52, 251","Jubilee, Metropolitan"
+54,Neasden,3,55,53,Jubilee
+55,Dollis Hill,3,56,54,Jubilee
+56,Willesden Green,3,57,55,Jubilee
+57,Kilburn,2,58,56,Jubilee
+58,West Hampstead,2,59,57,Jubilee
+59,Finchley Road,2,60,"53, 58",Jubilee
+60,Swiss Cottage,2,61,59,Jubilee
+61,St John's Wood,2,62,60,Jubilee
+62,Baker Street,1,"63, 84","59, 61, 228","Jubilee, Circle, Hammersmith & City, Metropolitan"
+63,Green Park,1,"18, 64, 156, 229","19, 62, 155","Jubilee, Picadilly, Victoria"
+64,Westminster,1,"65, 257","18, 63",Jubilee
+65,Waterloo,1,"66, 196, 230","64, 97",Jubilee
+66,Southwark,1,67,65,Jubilee
+67,London Bridge,1,"68, 212","24, 66",Jubilee
+68,Bermondsey,2,69,67,Jubilee
+69,Canada Water,2,70,68,Jubilee
+70,Canary Warf,2,71,69,Jubilee
+71,North Greenwich,2,72,70,Jubilee
+72,Canning Town,2,73,71,Jubilee
+73,West Ham,2,"74, 109","72, 108",Jubilee
+74,Stratford,2,0,73,Jubilee
+75,Hammersmith,2,"76, 127, 159",159,"Circle, Hammersmith & City, Picadilly"
+76,Goldhawk Road,2,77,75,"Circle, Hammersmith & City"
+77,Shepherd's Bush Market,2,78,76,"Circle, Hammersmith & City"
+78,Wood Lane,2,79,77,"Circle, Hammersmith & City"
+79,Latimer Road,2,80,78,"Circle, Hammersmith & City"
+80,Ladbroke Grove,2,81,79,"Circle, Hammersmith & City"
+81,Westbourne Park,2,82,80,"Circle, Hammersmith & City"
+82,Royal Oak,2,83,81,"Circle, Hammersmith & City"
+83,Paddington,1,103,82,"Circle, Hammersmith & City, District, Bakerloo"
+84,Great Portland Street,1,85,62,"Circle, Hammersmith & City, Metropolitan"
+85,Euston Square,1,86,84,"Circle, Hammersmith & City, Metropolitan"
+86,Kings's Cross & St Pancras International,1,"87, 152, 210","85, 151, 192, 256","Circle, Hammersmith & City, Metropolitan"
+87,Farringdon,1,88,86,"Circle, Hammersmith & City, Metropolitan"
+88,Barbican,1,89,87,"Circle, Hammersmith & City, Metropolitan"
+89,Moorgate,1,"24, 90, 104","88, 211","Circle, Hammersmith & City, Metropolitan"
+90,Aldgate,1,91,89,"Circle, Metropolitan"
+91,Tower Hill,1,92,90,"Circle, District"
+92,Monument,1,93,91,"Circle, District"
+93,Cannon Street,1,94,92,"Circle, District"
+94,Mansion House,1,95,93,"Circle, District"
+95,Blackfriars,1,96,94,"Circle, District"
+96,Temple,1,97,95,"Circle, District"
+97,Embankment,1,"65, 98","96, 195","Circle, District"
+98,St James's Park,1,99,97,"Circle, District"
+99,Sloane Square,1,100,98,"Circle, District"
+100,South Kensington,1,101,99,"Circle, District"
+101,High Street Kensington,1,15,"100, 139","Circle, District"
+102,Bays Water,1,103,15,"Circle, District"
+103,Edgeware Road,1,62,61,"Circle, Hammersmith & City, District"
+104,Aldgate East,1,105,89,"Hammersmith & City, District"
+105,Whitechapel,2,106,104,"Hammersmith & City, District"
+106,Stepney Green,2,27,105,"Hammersmith & City, District"
+107,Bow Road,2,108,27,"Hammersmith & City, District"
+108,Bromley-by-Bow,2,73,107,"Hammersmith & City, District"
+109,Plaistow,3,110,73,"Hammersmith & City, District"
+110,Upton Park,3,111,109,"Hammersmith & City, District"
+111,East Ham,3,112,110,"Hammersmith & City, District"
+112,Barking,4,113,111,"Hammersmith & City, District"
+113,Upney,4,114,112,District
+114,Becontree,5,115,113,District
+115,Dagenham Heathway,5,116,114,District
+116,Dagenham East,5,117,115,District
+117,Elm Park,6,118,116,District
+118,Horn Chucrh,6,119,117,District
+119,Upminster Bridge,6,120,118,District
+120,Upminster,6,0,119,District
+121,Ealing Common,3,"122, 243",8,"District, Picadilly"
+122,Acton Town,3,"123, 160","121, 127","District, Picadilly"
+123,Chiswick Park,3,127,122,District
+124,Richmond,4,125,0,District
+125,Kew Gardens,3,126,124,District
+126,Gunnersbury,3,127,125,District
+127,Turnham Green,3,"128, 160, 122","75, 123, 126","District, Picadilly"
+128,Stamford Brook,2,129,127,District
+129,Ravenscourt Park,2,75,128,District
+130,West Kensington,2,139,75,"District, Picadilly"
+131,Wimbledon,3,132,0,District
+132,Wimbledon Park,3,133,131,District
+133,Southfields,3,134,132,District
+134,East Putney,3,135,133,District
+135,Putney Bridge,2,136,134,District
+136,Parsons Green,2,137,135,District
+137,Fulham Broadway,2,138,136,District
+138,West Brompton,2,139,137,District
+139,Earl's Court,1,"101, 159","75, 130, 138","District, Picadilly"
+140,Cockfosters,5,141,0,Picadilly
+141,Oakwood,5,142,140,Picadilly
+142,Southgate,4,143,141,Picadilly
+143,Arnos Grove,4,144,142,Picadilly
+144,Bounds Green,4,145,143,Picadilly
+145,Wood Green,3,146,144,Picadilly
+146,Turnpike Lane,3,147,145,Picadilly
+147,Manor House,3,148,146,Picadilly
+148,Finsbury Park,2,"149, 256","147, 255",Picadilly
+149,Arsenal,2,150,148,Picadilly
+150,Holloway Road,2,151,149,Picadilly
+151,Caledonian Road,2,86,150,Picadilly
+152,Russell Square,1,21,86,Picadilly
+153,Covent Garden,1,154,21,Picadilly
+154,Leicester Square,1,"155, 195","19, 20, 153","Picadilly, Northern"
+155,Picadilly Circus,1,63,154,"Picadilly, Bakerloo"
+156,Hyde Park Corner,1,157,63,Picadilly
+157,Knightsbridge,1,158,156,Picadilly
+158,Glouceter Road,1,139,157,Picadilly
+159,Barons Court,2,"75, 101","129, 139","Picadilly, District"
+160,South Ealing,3,161,122,Picadilly
+161,Northfields,3,162,160,Picadilly
+162,Boston Manor,4,163,161,Picadilly
+163,Osterley,4,164,162,Picadilly
+164,Hounslow East,4,165,163,Picadilly
+165,Hounslow Central,4,166,164,Picadilly
+166,Hounslow West,5,167,165,Picadilly
+167,Hatton Cross,5,"168, 169",166,Picadilly
+168,Heathrow Terminal 4,6,0,167,Picadilly
+169,Heathrow Terminal 5,6,0,167,Picadilly
+170,Edgeware,5,171,0,Northen
+171,Burnt Oak,4,172,170,Northen
+172,Colindale,4,173,171,Northen
+173,Hendon Central,4,174,172,Northen
+174,Brent Cross,3,175,173,Northen
+175,Golders Green,3,176,174,Northen
+176,Hampstead,3,177,175,Northen
+177,Belsize Park,2,178,176,Northen
+178,Chalk Farm,2,190,177,Northen
+179,High Barnett,5,180,0,Northen
+180,Totteridge & Whetstone,4,181,179,Northen
+181,Woodside Park,4,182,180,Northen
+182,West Finchley,4,184,181,Northen
+183,Mill Hill East,4,184,0,Northen
+184,Finchley Central,4,185,"182, 183",Northen
+185,East Finchley,3,186,184,Northen
+186,Highgate,3,187,185,Northen
+187,Archway,3,188,186,Northen
+188,Tufnell Park,2,189,187,Northen
+189,Kentish Town,2,190,188,Northen
+190,Camden Town,2,191,"178, 189",Northen
+191,Mornington Crescent,2,192,190,Northen
+192,Euston,1,"86, 193",191,Northen
+193,Warren Street,1,195,192,"Northen, Victoria"
+194,Goodge Street,1,20,194,Northen
+195,Charring Cross,1,97,154,"Northen, Bakerloo"
+196,Kennington,1,"197, 199",65,Nothern 
+197,Nine Elms ,1,198,196,Northen
+198,Battersea Power Station,1,0,197,Northen
+199,Oval,2,200,197,Northen
+200,Stockwell,2,"201, 259","199, 258",Northen
+201,Clapham North,2,202,200,Northen
+202,Clapham Common,2,203,201,Northen
+203,Clapham South,2,204,202,Northen
+204,Balham,3,205,203,Northen
+205,Tooting Bec,3,206,204,Northen
+206,Tooting Broadway,3,207,205,Northen
+207,Colliers Wood,3,208,206,Northen
+208,South Wimbledon,3,209,207,Northen
+209,Morden,4,0,208,Northen
+210,Angel,1,211,86,Northen
+211,Old Street,1,89,210,Northen
+212,Borough,1,213,67,Northen 
+213,Elephant & Castle,1,196,212,"Northen, Bakerloo"
+214,Harrow & Wealdstone,5,215,0,Bakerloo
+215,Kenton,4,216,214,Bakerloo
+216,South Kenton,4,217,215,Bakerloo
+217,North Wembley,4,218,216,Bakerloo
+218,Wembley Central,4,219,217,Bakerloo
+219,Stonebridge,3,220,218,Bakerloo
+220,Harlesden,3,221,219,Bakerloo
+221,Willesden Junction,3,222,220,Bakerloo
+222,Kensal Green,2,223,221,Bakerloo
+223,Queen's Park,2,224,222,Bakerloo
+224,Kilburn Park,2,225,223,Bakerloo
+225,Maida Vale,2,226,224,Bakerloo
+226,Warwick Avenue,2,227,225,Bakerloo
+227,Edgeware Road,1,228,226,Bakerloo
+228,Marylebone,1,62,227,Bakerloo
+229,Regent's Park,1,19,62,Bakerloo
+230,Lambeth North,1,213,65,Bakerloo
+231,Uxbridge,6,232,0,"Picadilly, Metropolitan"
+232,Hillingdon,6,233,231,"Picadilly, Metropolitan"
+233,Ickenham,6,234,232,"Picadilly, Metropolitan"
+234,Ruislip,6,235,233,"Picadilly, Metropolitan"
+235,Ruislip Manor,6,236,234,"Picadilly, Metropolitan"
+236,Eastcote,5,237,235,"Picadilly, Metropolitan"
+237,Rayners Lane,5,238,236,"Picadilly, Metropolitan"
+238,South Harrow,5,239,237,Picadilly
+239,Sudbury Hill,4,240,238,Picadilly
+240,Sudbury Town,4,241,239,Picadilly
+241,Alperton,4,242,240,Picadilly
+242,Park Royal,4,243,241,Picadilly
+243,North Ealing,3,121,242,Picadilly
+244,West Harrow,5,"244, 248",238,Metropolitan
+245,Moor Park,6,246,0,Metropolitan
+246,Northwood Hills,6,247,245,Metropolitan
+247,Pinner,5,248,246,Metropolitan
+248,North Harrow,5,249,247,Metropolitan
+249,Harrow-on-the-Hill,5,250,"244, 248",Metropolitan
+250,Northwick Park,4,251,249,Metropolitan
+251,Preston Road,4,53,250,Metropolitan
+252,Walthamstow Central,3,253,0,Victoria
+253,Blackhorse Road,3,254,252,Victoria
+254,Tottenham Hale,3,255,253,Victoria
+255,Seven Sisters,3,148,254,Victoria
+256,Highbury & Islington,2,86,148,Victoria
+257,Pimlico,1,258,64,Victoria
+258,Vauxhall,1,200,257,Victoria
+259,Brixton,2,0,200,Victoria

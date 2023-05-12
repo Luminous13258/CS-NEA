@@ -1,0 +1,42 @@
+{
+    "Route": "StoredRoutes",
+    "Date & Time Planned": "These Routes have been stored by the user",
+    "routes": [
+    {
+            "Route": "Route 1",
+            "Date & Time Planned": "This is the first route",
+            "route": [
+                {
+                    "name": "Waypoint 1",
+                    "description": "This is the first waypoint",
+                    "latitude": 51.0,
+                    "longitude": 0.0
+                },
+                {
+                    "name": "Waypoint 2",
+                    "description": "This is the second waypoint",
+                    "latitude": 52.0,
+                    "longitude": 0.0
+                }
+            ]
+        },
+        {
+            "Route": "Route 2",
+            "Date & Time Planned": "This is the second route",
+            "route": [
+                {
+                    "name": "Waypoint 1",
+                    "description": "This is the first waypoint",
+                    "latitude": 51.0,
+                    "longitude": 0.0
+                },
+                {
+                    "name": "Waypoint 2",
+                    "description": "This is the second waypoint",
+                    "latitude": 52.0,
+                    "longitude": 0.0
+                }
+            ]
+        }
+    ]
+}
